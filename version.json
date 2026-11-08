@@ -2,10 +2,8 @@
   "ver": "9.8",
   "tag": "v9.7",
   "asset": "PDD-Sentinel-v9.8.exe",
-  "size": 46491374,
-  "sha256": "194fe46461012eae07cd76f3e684e6ce34a6728c42229649a3c957545143ef8f",
-  "notes": "【测试】验证自替换",
-  "urls": [
-    "https://github.com/Fss110/pdd-sentinel-update/releases/download/v9.7/PDD-Sentinel.exe"
-  ]
+  "size": 46491957,
+  "sha256": "c4afa0cc42b9356111bf4e6a714a837b676bed969cdf6d0e37cbdae0b781d3df",
+  "ts": 1794110390,
+  "notes": "【测试】验证自替换"
 }
