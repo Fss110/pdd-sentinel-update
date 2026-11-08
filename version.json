@@ -1,9 +1,9 @@
 {
   "ver": "9.9",
   "tag": "v9.7",
-  "asset": "PDD-Sentinel-testbuild-1794110647.exe",
+  "asset": "PDD-Sentinel-t1794111044.exe",
   "size": 46491957,
   "sha256": "c4afa0cc42b9356111bf4e6a714a837b676bed969cdf6d0e37cbdae0b781d3df",
-  "ts": 1794111029,
+  "ts": 1794111364,
   "notes": "【测试】验证自替换"
 }
