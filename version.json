@@ -1,9 +1,9 @@
 {
-  "ver": "9.10",
-  "tag": "v9.10",
-  "asset": "PDD-Sentinel-v9.10.exe",
-  "size": 46495048,
-  "sha256": "f46b9bd0d6e620e368d7457d8bb6d94e8be9ccd29d65b98c4c3c6339adfbc2ce",
-  "ts": 1794121697,
-  "notes": "「检查更新」移到顶栏；清单改用 releases/latest 防缓存"
+  "ver": "9.11",
+  "tag": "v9.11",
+  "asset": "PDD-Sentinel-v9.11.exe",
+  "size": 46495857,
+  "sha256": "0aac105316d41806dd42f7c0121c07ca894678151efe791fc22d8a74fa1c9ffa",
+  "ts": 1794122488,
+  "notes": "新增：顶栏「今日掉线 + 近24h趋势」迷你图"
 }
