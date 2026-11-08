@@ -1,9 +1,9 @@
 {
-  "ver": "9.9",
-  "tag": "v9.9",
-  "asset": "PDD-Sentinel-v9.9.exe",
-  "size": 46494675,
-  "sha256": "a1c4019f0432b79cc771f939693956acd4d3e88877255813f68201d3fae62d79",
-  "ts": 1794120686,
-  "notes": "GitHub 链接移到顶栏"
+  "ver": "9.10",
+  "tag": "v9.10",
+  "asset": "PDD-Sentinel-v9.10.exe",
+  "size": 46495635,
+  "sha256": "e5bd2260142fe61bc0b09b1613120c0009b24e82640a484b7a59407e601496de",
+  "ts": 1794121320,
+  "notes": "「检查更新」移到顶栏（作者主页左边）"
 }
