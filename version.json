@@ -1,9 +1,9 @@
 {
-  "ver": "9.9",
+  "ver": "9.7",
   "tag": "v9.7",
-  "asset": "PDD-Sentinel-t1794111044.exe",
+  "asset": "PDD-Sentinel-v9.7.exe",
   "size": 46491957,
   "sha256": "c4afa0cc42b9356111bf4e6a714a837b676bed969cdf6d0e37cbdae0b781d3df",
-  "ts": 1794111364,
-  "notes": "【测试】验证自替换"
+  "ts": 1794111634,
+  "notes": "支持在线更新：设置里点一下就自动下载替换；新增作者与仓库链接"
 }
