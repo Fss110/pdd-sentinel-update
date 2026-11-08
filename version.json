@@ -1,9 +1,9 @@
 {
-  "ver": "9.8",
-  "tag": "v9.8",
-  "asset": "PDD-Sentinel-v9.8.exe",
-  "size": 46493399,
-  "sha256": "6741c24ccd662e7f8adf5eada173b03ef52ea53605e2c06a7e01d9fcfd300e16",
-  "ts": 1794112911,
-  "notes": "修复：主界面最小化时被误判成白屏、导致无故自动重启"
+  "ver": "9.9",
+  "tag": "v9.9",
+  "asset": "PDD-Sentinel-v9.9.exe",
+  "size": 46494675,
+  "sha256": "a1c4019f0432b79cc771f939693956acd4d3e88877255813f68201d3fae62d79",
+  "ts": 1794120634,
+  "notes": "GitHub 链接移到顶栏（作者主页/更新仓库/版本历史）"
 }
