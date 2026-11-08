@@ -2,8 +2,8 @@
   "ver": "9.10",
   "tag": "v9.10",
   "asset": "PDD-Sentinel-v9.10.exe",
-  "size": 46495635,
-  "sha256": "e5bd2260142fe61bc0b09b1613120c0009b24e82640a484b7a59407e601496de",
-  "ts": 1794121320,
-  "notes": "「检查更新」移到顶栏（作者主页左边）"
+  "size": 46495048,
+  "sha256": "f46b9bd0d6e620e368d7457d8bb6d94e8be9ccd29d65b98c4c3c6339adfbc2ce",
+  "ts": 1794121697,
+  "notes": "「检查更新」移到顶栏；清单改用 releases/latest 防缓存"
 }
