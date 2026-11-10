@@ -1,9 +1,9 @@
 {
-  "ver": "9.11",
-  "tag": "v9.11",
-  "asset": "PDD-Sentinel-v9.11.exe",
-  "size": 46495857,
-  "sha256": "0aac105316d41806dd42f7c0121c07ca894678151efe791fc22d8a74fa1c9ffa",
-  "ts": 1794122488,
-  "notes": "新增：顶栏「今日掉线 + 近24h趋势」迷你图"
+  "ver": "9.12",
+  "tag": "v9.12",
+  "asset": "PDD-Sentinel-v9.12.exe",
+  "size": 46499817,
+  "sha256": "40418a04faf64ec4e78b99175907c656914dd0db0c4e89c89d8ef199c78272dd",
+  "ts": 1794271248,
+  "notes": "修：ID未识别自愈一直没生效（参数名写错）+ 新增每轮定向补全"
 }
